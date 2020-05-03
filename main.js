@@ -22,7 +22,7 @@ function createWindow() {
         slashes: true
     }))
 
-    win.webContents.openDevTools()
+    win.webContents.openDevTools() //Esta opción permite abrir las herramientas de desarrollador para revisar posibles errores en la aplicación
 }
 
 exports.openWindow = () => {
