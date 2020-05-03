@@ -1,0 +1,14 @@
+{
+    "name": "practica-electron",
+    "version": "1.0.0",
+    "description": "Práctica que servirá como guía para la realización de la caja virtual para el proyecto integrador de este semestre P56",
+    "main": "index.js",
+    "scripts": {
+        "start": "electron main.js"
+    },
+    "author": "Diego González",
+    "license": "ISC",
+    "dependencies": {
+        "electron": "^8.2.5"
+    }
+}
