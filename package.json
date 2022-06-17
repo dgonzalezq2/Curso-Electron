@@ -9,7 +9,7 @@
     "author": "Diego González",
     "license": "ISC",
     "dependencies": {
-        "electron": "^8.2.5",
+        "electron": "^15.5.5",
         "pretty-bytes": "^5.3.0"
     }
 }
